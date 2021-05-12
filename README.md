@@ -1,5 +1,5 @@
 # Project Overview
-This project will execute some jobs (ddls/dmls) over a database server asynchronously ( CRUD APP )
+This project will execute some jobs (ddls/dmls) over a database server asynchronously.
 
 
 # Requirements
