@@ -1,0 +1,6 @@
+Flask
+Flask-Migrate
+marshmallow-sqlalchemy
+marshmallow
+Flask-SQLAlchemy
+asyncio
